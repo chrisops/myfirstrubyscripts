@@ -1,0 +1,1 @@
+# Learning ruby, first scripts
