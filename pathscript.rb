@@ -1,4 +1,11 @@
 #!/home/chris/.rbenv/shims/ruby -w
+#
+# pathscript.rb
+#
+# copies all ruby scripts in current directory to /usr/local/bin/ and removes .rb extension, so can be executed from terminal
+#
+
+
 # load all files in current directory into an array
 allfiles = `ls`.split("\n")
 
