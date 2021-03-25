@@ -7,6 +7,8 @@
 # also can prepend a file to a file
 #
 # pre <file> <file>
+#
+# TODO: figure out how to also make this work when piping
 
 if ARGV.length == 0
     puts "Missing string to prepend\nUsage:\npre <string/file> <file>\n"
