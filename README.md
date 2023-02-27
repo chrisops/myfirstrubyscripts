@@ -8,8 +8,8 @@ copies all ruby scripts in current directory to /usr/local/bin/ and removes .rb 
 
 prepends string to file
 
-usage: pre <string> <file>
+usage: pre \<string\> \<file\>
 
 also can prepend a file to a file
 
-pre <file> <file>
+pre \<file\> \<file\>
